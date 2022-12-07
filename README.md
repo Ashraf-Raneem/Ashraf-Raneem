@@ -7,7 +7,7 @@
 
 &#9997; Got a degree in computer science! 
 
-🏢 Currently working at **[HealthOS.](https://healthos.io/)**
+🏢 Currently studying at **University of Calgary**
 
 ⚙️ Currently most usage: `.jsx`, `.js`, `.tsx`
 
@@ -55,6 +55,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="[https://findashraf.netlify.app/]"><img src="https://img.shields.io/badge/-findAshraf.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://findashraf.netlify.app/"><img src="https://img.shields.io/badge/-findAshraf.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="www.linkedin.com/in/ashraf-raneem-2b94361a0"><img src="https://img.shields.io/badge/-Ashraf%20Raneem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ashrafraneem@gmail.com"><img src="https://img.shields.io/badge/-ashrafraneem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
